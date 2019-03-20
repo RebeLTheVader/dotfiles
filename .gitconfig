@@ -1,14 +1,15 @@
 [user]
-	email = al.kudashkin@gmail.com
-	name = rebel
+	email = z0rk1@ya.ru
+	name = z0rk1i
 [alias]
-	dad = !curl https://icanhazdadjoke.com/ && git add
-	co = checkout
-	c = commit
-	st = status
+        dad = !curl https://icanhazdadjoke.com/ && git add
+        co = checkout
+        c = commit
+        st = status
   br = branch
   hist = log --pretty=format:\"%h %s%d\" --graph --date=short
   #hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
   type = cat-file -t
   dump = cat-file -p
-	ac = !git add -A && git commit
+        ac = !git add -A && git commit
+

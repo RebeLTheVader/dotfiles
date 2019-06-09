@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Better CoffeeScript",
+		"CoffeeComplete Plus (Autocompletion)",
+		"Dark Neon Color Scheme",
+		"Darkula Color Scheme",
+		"EthereumSoliditySnippets",
+		"Material Nil",
+		"Material Theme",
+		"Package Control",
+		"Ruby Slim",
+		"Seti_UI",
+		"Seti_UX",
+		"Slime",
+		"Theme - DC"
+	]
+}
